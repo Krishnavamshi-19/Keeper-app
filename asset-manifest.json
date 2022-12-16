@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.fc0053fb.js",
-    "index.html": "/index.html",
-    "main.fc0053fb.js.map": "/static/js/main.fc0053fb.js.map"
+    "main.js": "/Keeper-app/static/js/main.fc0053fb.js",
+    "index.html": "/Keeper-app/index.html",
+    "main.fc0053fb.js.map": "/Keeper-app/static/js/main.fc0053fb.js.map"
   },
   "entrypoints": [
     "static/js/main.fc0053fb.js"
